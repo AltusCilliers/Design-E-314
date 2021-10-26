@@ -1,5 +1,5 @@
 # Design-E-314
-Please see attached report for a detailed discussion about the project.
+Please see attached report for a detailed discussion about the project.<br>
 The folder "Design314_ArcadeGame" contains the STM32CubeIDE Project 
 # Introduction 
 The main goal of this project is to act as an arcade style game console with a 8x8 Light Emitting
