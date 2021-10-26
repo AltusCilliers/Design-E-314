@@ -1,0 +1,2 @@
+calibration.c:13:6:calibration_sequence	16	static
+calibration.c:31:6:wait_screen	16	static

@@ -1,0 +1,4 @@
+mazeGame.c:55:6:construct_maze_game	32	static
+mazeGame.c:87:6:maze_game	16	static
+mazeGame.c:395:6:display_maze_number	48	static
+mazeGame.c:432:6:maze_gameStop	16	static

@@ -1,0 +1,5 @@
+tennisGame.c:38:6:construct_tennis_game	24	static
+tennisGame.c:67:6:tennis_game	16	static
+tennisGame.c:228:6:collision_detection	8	static
+tennisGame.c:412:6:move_ball	4	static
+tennisGame.c:453:6:tennis_gameStop	8	static
